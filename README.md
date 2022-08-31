@@ -1,2 +1,1 @@
-My first readme
-abdi
+Abdikhalaq ahmad
